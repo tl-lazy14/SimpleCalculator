@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button_Number">
+        <item name="android:textSize">29sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/button_number_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+    <style name="Button_Operator">
+        <item name="android:textSize">29sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/button_operator_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+</resources>
